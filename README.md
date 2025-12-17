@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rasel Ahmed</h1>
+<h3 align="center">A passionate .NET developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel-coder&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-coder" /> </p>
 
